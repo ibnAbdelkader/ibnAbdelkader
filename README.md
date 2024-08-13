@@ -40,19 +40,20 @@ You can click the Preview link to take a look at your changes.
 
 ### 🛠 &nbsp;Tech Stack
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=Cplusplus&logoColor=00599C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-
+![Linux](https://img.shields.io/badge/-Linux%20-05122A?style=flat&logo=linux)&nbsp;
+![KiCad](https://img.shields.io/badge/-KiCad%20-05122A?style=flat&logo=kicad)&nbsp;
+![Amazon Web Services	](https://img.shields.io/badge/-Amazon%20Web%20Services-05122A?style=flat&logo=amazonwebservices&logoColor=232F3E)&nbsp;
+![Arm Keil](https://img.shields.io/badge/-Arm%20Keil-05122A?style=flat&logo=armkeil&logoColor=394049)&nbsp;
+![Arm Keil](https://img.shields.io/badge/-Arm%20Keil-05122A?style=flat&logo=armkeil&logoColor=394049)&nbsp;
+![Arm Keil](https://img.shields.io/badge/-Arm%20Keil-05122A?style=flat&logo=armkeil&logoColor=394049)&nbsp;
+![Arm Keil](https://img.shields.io/badge/-Arm%20Keil-05122A?style=flat&logo=armkeil&logoColor=394049)&nbsp;
+![Arm Keil](https://img.shields.io/badge/-Arm%20Keil-05122A?style=flat&logo=armkeil&logoColor=394049)&nbsp;
+![Arm Keil](https://img.shields.io/badge/-Arm%20Keil-05122A?style=flat&logo=armkeil&logoColor=394049)&nbsp;
 
 
 
