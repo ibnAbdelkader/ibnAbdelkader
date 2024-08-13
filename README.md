@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmed Abdelkader
-- 👀 I’m interested in Embedded Systems/Machine Learning/Physics.
+- 👀 I’m interested in Embedded Systems, Machine Learning and Physics.
 - 🌱 I’m currently learning esp32.
 - 💞️ I’m looking to collaborate on projects to improve my skills.
 - 📫 Reach me on 
