@@ -34,6 +34,10 @@ You can click the Preview link to take a look at your changes.
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=Google%20Colab)&nbsp;
+![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=Keras)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux%20-05122A?style=flat&logo=linux)&nbsp;
 ![Amazon Web Services	](https://img.shields.io/badge/-Amazon%20Web%20Services-05122A?style=flat&logo=amazonwebservices&logoColor=232F3E&labelColor=B2FCE4)&nbsp;
 ![Arm Keil](https://img.shields.io/badge/-Arm%20Keil-05122A?style=flat&logo=armkeil&logoColor=394049&labelColor=E8E8E8)&nbsp;
